@@ -1,0 +1,9 @@
+{
+    "urls": [
+        "https://api.github.com",
+        "https://jsonplaceholder.typicode.com/posts",
+        "https://httpbin.org/get",
+        "https://api.example.com",
+        "https://nonexistent.example.com"
+    ]
+}
